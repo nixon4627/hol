@@ -10,3 +10,4 @@ def salary(hours,salary_by_hours):
     '''
     k = 2
     return hours * salary_by_hours * k
+print(2)
